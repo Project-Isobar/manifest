@@ -177,4 +177,7 @@
   <project path="packages/apps/FaceUnlockService" name="Los-FE/packages_apps_FaceUnlockService" />
   <project path="external/asus/stitchimage" name="Los-FE/external_asus_stitchimage" groups="pdk-fs" />
   <project path="frameworks/support/lottie" name="Los-FE/frameworks_support_lottie" groups="pdk" />
+  
+  <!-- Kdrag0n -->
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="Los-FE/proton-clang" revision="master" >
 </manifest>
